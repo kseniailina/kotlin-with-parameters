@@ -35,7 +35,7 @@ object Build : BuildType({
     name = "Build"
 
     params {
-        param("param1", "444")
+        param("param1", "333")
     }
 
     vcs {
