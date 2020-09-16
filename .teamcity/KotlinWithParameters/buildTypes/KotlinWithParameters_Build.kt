@@ -8,7 +8,7 @@ object KotlinWithParameters_Build : BuildType({
     name = "Build"
 
     params {
-        param("env.someParam", "222")
+        param("env.someParam", "555")
         param("param1", "444")
     }
 
